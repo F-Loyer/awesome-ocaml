@@ -553,9 +553,11 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Serialization
 
 - [atdgen](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
+- [decoders](https://github.com/mattjbray/ocaml-decoders) - A collection of decoders and some encoders (Bencode, CBOR, JSON, msgpk, Sexplib)
 - [bencode](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
 - [biniou](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 - [cbor](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) decoder/encoder.
+- [cborl](https://codeberg.org/openengiadina/ocaml-cborl) - An other CBOR decoder/encoder
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
 - [yojson](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
