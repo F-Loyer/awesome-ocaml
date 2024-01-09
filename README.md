@@ -123,7 +123,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Purely Functional Data Structures](https://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
 - [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrop.
 - [Functional Programming in OCaml: A Principled Approach](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/) - Textbook for CS 3110 Functional Programming in OCaml, Cornell University.
-
+- [Architecture of Advanced Numerical Analysis Systems](https://link.springer.com/book/10.1007/978-1-4842-8853-5) - OCaml usage for several analysis problem using the Owl library.
 
 
 ## Code Analysis and Linters
